@@ -1,0 +1,7 @@
+{
+  "name": "weather-checker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
